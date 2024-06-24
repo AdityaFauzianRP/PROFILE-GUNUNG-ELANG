@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'gunw9585_katalog',
+    'database_user' => 'gunw9_katalog',
+    'database_password' => 'aW5f5p5sU',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'ou2yBIHWO7OewDBAx3AZN1XHgkaIzfqyxwu2nzptoPk89ZfppSIQIMeEQAYTImEb',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2021-02-25',
+    'locale' => 'id-ID',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'OUQeLNXPy6kDE90GYvxE9SBttFm81InVnWSBA8ZXZykVwsqkyX2oT5zYkafshBVW',
+    'cookie_iv' => 'XKZF67YOyCGHwiNG6quFatdcdj0Jy7MC',
+    'new_cookie_key' => 'def000004e5f14e753ba2eca6ed41cabe7af6c1a9b6369ce8d85c532098eeb118ec17393387b2f7b6f533b4953591ac38a5cb2e5161f475d14bcf349a90e9345056f77f9',
+  ),
+);

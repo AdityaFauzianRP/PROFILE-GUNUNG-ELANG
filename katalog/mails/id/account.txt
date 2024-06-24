@@ -1,0 +1,27 @@
+{shop_url}
+
+Halo {firstname} {lastname},
+
+Terima kasih telah menjadi pelanggan di {shop_name}.
+
+Your login details on {shop_name}
+
+Berikut adalah informasi login Anda:
+
+Email address: {email}
+
+Tips penting untuk keamanan Anda:
+
+1. Simpan informasi akun dengan aman.
+
+2. Jangan bagikan informasi login Anda ke orang lain.
+
+3. Ubah password secara teratur.
+
+4. Jika Anda curiga akun Anda digunakan orang lain, hubungi kami secepatnya.
+
+Sekarang Anda dapat berbelanja di toko kami: [{shop_name}]({shop_url})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

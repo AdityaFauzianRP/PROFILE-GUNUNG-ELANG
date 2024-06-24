@@ -1,0 +1,17 @@
+{shop_url}
+
+Halo {firstname} {lastname},
+
+Message from customer
+
+Anda menerima pesan yang terkait dengan penjualan dengan kode referensi {order_name}.
+
+Pelanggan: {firstname} {lastname} ({email})
+
+Pesan dari pelanggan:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

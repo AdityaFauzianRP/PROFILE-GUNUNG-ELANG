@@ -1,0 +1,41 @@
+{shop_url}
+
+Selamat!
+
+A new order was placed on {shop_name} by the following customer: {firstname} {lastname} ({email})
+
+Rincian pembelian
+
+Order: {order_name} Pada tanggal {date}
+
+Pembayaran: {payment}
+
+Referensi	Produk	Harga Satuan	Jumlah	Total Harga   {items}
+Produk	{total_products}
+Diskon	{total_discounts}
+Bungkus Kado	{total_wrapping}
+Pengiriman	{total_shipping}
+Including total tax	{total_tax_paid}
+Jumlah yang dibayarkan	{total_paid}
+
+Kurir
+
+Kurir: {carrier}
+
+Pembayaran: {payment}
+
+Alamat pengiriman
+
+{delivery_block_html}
+
+Alamat tagihan
+
+{invoice_block_html}
+
+Pesan dari pelanggan:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
