@@ -17,9 +17,9 @@ Our software consultancy services focus on delivering custom software solutions 
 
 We would love to hear from you! For inquiries about our services or to schedule a consultation, please reach out to us through the following contact details:
 
-- **Email:** info@gunungelangindah.com
-- **Phone:** +62-21-1234-5678
-- **Address:** Jl. Raya Mountain No. 123, Jakarta, Indonesia
+- **Email:** marketing@gunungelangindah.com
+- **Phone:** (+6221) 55664072
+- **Address:** Jl. Prabu Siliwangi No.5-7 Kota Tangerang, Banten 15138
 
 You can also visit our [website](http://www.gunungelangindah.com) for more information.
 
